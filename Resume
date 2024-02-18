@@ -1,0 +1,84 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=, initial-scale=1.0">
+    <title>Bibin Benny</title>
+</head>
+<body>
+    <table border="">
+        <tr>
+            <td>
+                <img  style="float: left;" width="300" src="12.jpg" alt="Bibin benny Resum e photoes">
+            </td>
+            <td>
+                <h1> Bibin benny </h1>
+                <p>Found of coding shuttle & Ex-software at Amazon </p>
+                <p>l ❤️ love web Development and here to guide the coding Enthusiasts ❤️ </p>
+            </td>
+        </tr>
+    </table>
+    <hr>
+
+
+    <!-- Header ends-->
+
+    <h2>Education</h2>
+    <table border="">
+
+
+
+
+        <tr>
+            <th>Course</th>
+            <th>institute</th>
+            <th>Year</th>
+            <th>Result</th>
+        </tr>
+        <tr>
+            <td>BE in IT</td>
+            <td>NSIT, Delhi</td>
+            <td>2019</td>
+            <td>74.25</td>
+        </tr>
+        <tr>
+            <td>12th Grade</td>
+            <td>RPVW, paschim vihar</td>
+            <td>2014</td>
+            <td>94.5</td>
+
+
+        </tr>
+    </table>
+
+    <h2>Internship</h2>
+    <p><strong>Better </strong> butter an Indian Online Cooking Platform</p>
+    <p><i>Android Developer Internship</i></p>
+    <ul>
+        <li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate temporibus, nostrum perspiciatis omnis itaque maiores assumenda vero eligendi commodi ex eum sed adipisci iusto? Provident nemo assumenda porro nam eum.</li>
+        <li>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Tempore necessitatibus placeat dicta quod hic eius saepe iusto, explicabo quae voluptatum minima repudiandae recusandae exercitationem ut est laborum, sapiente distinctio. Voluptas!</li>
+
+    </ul>
+    <h2>Project</h2>
+
+    <ul>
+        <li>
+            <h3>
+                Ethereum Voting
+            </h3>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis tempore praesentium quidem doloribus, enim accusamus, delectus, fuga amet consequuntur eaque sequi dignissimos odio architecto sapiente atque veniam! Laudantium, delectus ipsum.
+
+            </p>
+        </li>
+        <h3>
+            Web Development skill 
+        </h3>
+        <li>
+            <p>
+                Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quibusdam quasi dignissimos saepe nisi esse et quod deserunt perferendis, modi nobis non molestiae. Minus, nisi error. Dolore id cumque architecto eius.
+            </p>
+        </li>
+    </ul>
+
+
+</body>
+</html>
